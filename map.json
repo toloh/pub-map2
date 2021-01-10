@@ -106,7 +106,7 @@
                  "value":"skribbl.io"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":47,
          "x":0,
          "y":0
