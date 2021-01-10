@@ -73,7 +73,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"https:\/\/npeguin.github.io\/corridor-map\/map.json"
+                 "value":"..\/drau\u00dfen.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -103,10 +103,10 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.radio.de\/s\/bollerwagen"
+                 "value":"skribbl.io"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":47,
          "x":0,
          "y":0
@@ -124,7 +124,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":47,
          "x":0,
          "y":0
@@ -1286,6 +1286,10 @@
          "tileheight":32,
          "tilewidth":32,
          "transparentcolor":"#ff00ff"
+        }, 
+        {
+         "firstgid":1898,
+         "source":"floortileset.tsx"
         }],
  "tilewidth":32,
  "type":"map",
